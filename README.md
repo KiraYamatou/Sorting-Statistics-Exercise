@@ -1,4 +1,6 @@
 # Sorting-Statistics-Exercise
+Exercise for as simple Array sort coded in Java. Using both Statistics and TestStatistics Classes.
+
 Enter the Number Of Data Values: 12
 
 Enter Data Value: 7.2
@@ -44,5 +46,3 @@ Max Value:     7.6
 Mean:             3.35
 
 Median:          3.0
-
-Exercise for as simple Array sort coded in Java. Using both Statistics and TestStatistics Classes.
