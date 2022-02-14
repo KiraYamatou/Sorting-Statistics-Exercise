@@ -1,5 +1,5 @@
 # Sorting-Statistics-Exercise
-Exercise for as simple Array sort coded in Java. Using both Statistics and TestStatistics Classes.
+Exercise for a simple Array sort coded in Java. Using both Statistics and TestStatistics Classes.
 
 Enter the Number Of Data Values: 12
 
